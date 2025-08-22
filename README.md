@@ -2,8 +2,6 @@
 ---
 
 # 🎬 AiMovier
-A movie recommendation system that recommends movies similar to your favorites :p
-
 A simple and interactive **content-based movie recommender system** built with **Python, Streamlit, and scikit-learn**.
 It suggests movies based on your favorite movie, or lets you explore by **genre, actor, or director**.
 
